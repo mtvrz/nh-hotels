@@ -4,6 +4,7 @@ import Slideshow from "./slideShow/Slideshow";
 import Dashboard from "./dashboard/Dashboard";
 
 const MainJS = () =>{
+    //test
     return <div>
         <Slideshow/>
     </div>
