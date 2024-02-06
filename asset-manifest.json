@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/nh-hotels/static/css/main.b0fd852d.css",
+    "main.js": "/nh-hotels/static/js/main.ffa62377.js",
+    "static/media/slide_1.jpeg": "/nh-hotels/static/media/slide_1.4c7ad4e57e26ff026b1f.jpeg",
+    "static/media/slide_3.jpeg": "/nh-hotels/static/media/slide_3.7a7db3e3e214a4ee7563.jpeg",
+    "static/media/slide_2.jpeg": "/nh-hotels/static/media/slide_2.400ea7fcdc6238853fa9.jpeg",
+    "static/media/logo_nh-collection.svg": "/nh-hotels/static/media/logo_nh-collection.c2348618630fd12b64930001697824e5.svg",
+    "index.html": "/nh-hotels/index.html",
+    "main.b0fd852d.css.map": "/nh-hotels/static/css/main.b0fd852d.css.map",
+    "main.ffa62377.js.map": "/nh-hotels/static/js/main.ffa62377.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b0fd852d.css",
+    "static/js/main.ffa62377.js"
+  ]
+}
