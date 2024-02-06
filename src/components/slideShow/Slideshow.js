@@ -1,7 +1,7 @@
 import classes from "./Slideshow.module.css";
-import slide from "../../store/slide_1.jpeg"
-import slide2 from "../../store/slide_2.jpeg"
-import slide3 from "../../store/slide_3.jpeg"
+import slide from "../../store/slide_1.jpg"
+import slide2 from "../../store/slide_2.jpg"
+import slide3 from "../../store/slide_3.jpg"
 import {useEffect, useState} from "react";
 
 const Slideshow = () =>{
