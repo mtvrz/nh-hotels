@@ -1,17 +1,24 @@
 {
   "files": {
-    "main.css": "/nh-hotels/static/css/main.b0fd852d.css",
-    "main.js": "/nh-hotels/static/js/main.24dbb9c9.js",
-    "static/media/slide_2.jpg": "/nh-hotels/static/media/slide_2.fd0520b1b6d0ef932fdd.jpg",
-    "static/media/slide_3.jpg": "/nh-hotels/static/media/slide_3.c20dac2e304d50caed4a.jpg",
-    "static/media/slide_1.jpg": "/nh-hotels/static/media/slide_1.712a61b8ba0a0c14405f.jpg",
+    "main.css": "/nh-hotels/static/css/main.72db9f7c.css",
+    "main.js": "/nh-hotels/static/js/main.52e6bd4e.js",
+    "static/media/slide2.png": "/nh-hotels/static/media/slide2.076f6f0cd664d620be85.png",
+    "static/media/slide5.jpg": "/nh-hotels/static/media/slide5.9d1258e03d5a081642f5.jpg",
+    "static/media/slide3.jpg": "/nh-hotels/static/media/slide3.5a49cc104ce4ece20b21.jpg",
+    "static/media/slide6.jpg": "/nh-hotels/static/media/slide6.f8a709af47010386b0c1.jpg",
+    "static/media/slide7.jpg": "/nh-hotels/static/media/slide7.bf6ba0be21bc04c42e42.jpg",
+    "static/media/slide9.jpg": "/nh-hotels/static/media/slide9.2481e652298fbb784417.jpg",
+    "static/media/slide8.jpg": "/nh-hotels/static/media/slide8.4b1fb0423af2b4556f3a.jpg",
+    "static/media/slide4.jpg": "/nh-hotels/static/media/slide4.9ce1a9c529fe1e62ff78.jpg",
+    "static/media/slide10.JPG": "/nh-hotels/static/media/slide10.26b82d99855400c3fe9d.JPG",
+    "static/media/slide1.jpg": "/nh-hotels/static/media/slide1.205be89b3b38b1381333.jpg",
     "static/media/logo_nh-collection.svg": "/nh-hotels/static/media/logo_nh-collection.c2348618630fd12b64930001697824e5.svg",
     "index.html": "/nh-hotels/index.html",
-    "main.b0fd852d.css.map": "/nh-hotels/static/css/main.b0fd852d.css.map",
-    "main.24dbb9c9.js.map": "/nh-hotels/static/js/main.24dbb9c9.js.map"
+    "main.72db9f7c.css.map": "/nh-hotels/static/css/main.72db9f7c.css.map",
+    "main.52e6bd4e.js.map": "/nh-hotels/static/js/main.52e6bd4e.js.map"
   },
   "entrypoints": [
-    "static/css/main.b0fd852d.css",
-    "static/js/main.24dbb9c9.js"
+    "static/css/main.72db9f7c.css",
+    "static/js/main.52e6bd4e.js"
   ]
 }
