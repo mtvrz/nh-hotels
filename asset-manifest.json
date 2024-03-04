@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/nh-hotels/static/css/main.72db9f7c.css",
-    "main.js": "/nh-hotels/static/js/main.0e0e7b12.js",
-    "static/media/slide2.png": "/nh-hotels/static/media/slide2.076f6f0cd664d620be85.png",
-    "static/media/slide5.jpg": "/nh-hotels/static/media/slide5.9d1258e03d5a081642f5.jpg",
-    "static/media/slide6.jpg": "/nh-hotels/static/media/slide6.f8a709af47010386b0c1.jpg",
-    "static/media/slide7.jpg": "/nh-hotels/static/media/slide7.bf6ba0be21bc04c42e42.jpg",
-    "static/media/slide9.jpg": "/nh-hotels/static/media/slide9.2481e652298fbb784417.jpg",
-    "static/media/slide8.jpg": "/nh-hotels/static/media/slide8.4b1fb0423af2b4556f3a.jpg",
-    "static/media/slide4.jpg": "/nh-hotels/static/media/slide4.9ce1a9c529fe1e62ff78.jpg",
-    "static/media/slide10.JPG": "/nh-hotels/static/media/slide10.26b82d99855400c3fe9d.JPG",
-    "static/media/slide1.jpg": "/nh-hotels/static/media/slide1.205be89b3b38b1381333.jpg",
+    "main.js": "/nh-hotels/static/js/main.3ee329fb.js",
+    "static/media/Snímek2.png": "/nh-hotels/static/media/Snímek2.076f6f0cd664d620be85.png",
+    "static/media/Snímek5.jpg": "/nh-hotels/static/media/Snímek5.9d1258e03d5a081642f5.jpg",
+    "static/media/Snímek7.jpg": "/nh-hotels/static/media/Snímek7.f8a709af47010386b0c1.jpg",
+    "static/media/Snímek8.jpg": "/nh-hotels/static/media/Snímek8.6434d5876aa92cd83c4f.jpg",
+    "static/media/Snímek10.jpg": "/nh-hotels/static/media/Snímek10.2481e652298fbb784417.jpg",
+    "static/media/Snímek9.jpg": "/nh-hotels/static/media/Snímek9.4b1fb0423af2b4556f3a.jpg",
+    "static/media/Snímek4.jpg": "/nh-hotels/static/media/Snímek4.9ce1a9c529fe1e62ff78.jpg",
+    "static/media/Snímek11.JPG": "/nh-hotels/static/media/Snímek11.26b82d99855400c3fe9d.JPG",
+    "static/media/Snímek1.JPG": "/nh-hotels/static/media/Snímek1.205be89b3b38b1381333.JPG",
     "static/media/logo_nh-collection.svg": "/nh-hotels/static/media/logo_nh-collection.c2348618630fd12b64930001697824e5.svg",
     "index.html": "/nh-hotels/index.html",
     "main.72db9f7c.css.map": "/nh-hotels/static/css/main.72db9f7c.css.map",
-    "main.0e0e7b12.js.map": "/nh-hotels/static/js/main.0e0e7b12.js.map"
+    "main.3ee329fb.js.map": "/nh-hotels/static/js/main.3ee329fb.js.map"
   },
   "entrypoints": [
     "static/css/main.72db9f7c.css",
-    "static/js/main.0e0e7b12.js"
+    "static/js/main.3ee329fb.js"
   ]
 }
